@@ -2,9 +2,7 @@
 This tool helps to create a password list which can crack 50% of accounts password on social media sites such as: Facebook, Instagram, Twitter etc.
 
 $ git clone https://github.com/EngineerRancho/Password-list-Generator
-
 $ cd Password-list-Generator
-
 $ ./Password-list
 
 ![](Images/Screenshot%201.png) 
