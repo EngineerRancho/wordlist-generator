@@ -1,8 +1,8 @@
 # Password-list
-### Generate a wordlist using Terminal
+### Generate a wordlist .txt file using Terminal 
 Individul account Brute force attack
 
-This tool helps to create a password list which can crack 50% of accounts password on social media sites such as: Facebook, Instagram, Twitter etc.
+This tool helps to create a password list which can crack more than 50% of accounts's password on social media sites such as: Facebook, Instagram, Twitter etc.
 
 ### commnds to clone into Wordlist-generator
 
