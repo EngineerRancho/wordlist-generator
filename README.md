@@ -12,7 +12,7 @@ cd wordlist-generator
 
 ./Password-list
 
-![](.Screenshot%201.png) 
-![](.Screenshot%202.png)
+![](Screenshot%201.png) 
+![](Screenshot%202.png)
 
 This way you can give predicted prefix or suffix that the owner of ID may have used. such as: Name, Surname, Place etc with or without special characters
