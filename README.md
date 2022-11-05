@@ -12,9 +12,8 @@ cd wordlist-generator
 
 ./Password-list
 
-Added option 4 to Print only number series..
-
 ![](.Screenshot%201.png) 
+Added option 4 to Print only number series..
 ![](.Screenshot%202.png)
 
 This way you can give predicted prefix or suffix that the owner of ID may have used. such as: Name, Surname, Place etc with or without special characters
