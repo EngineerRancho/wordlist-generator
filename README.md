@@ -13,6 +13,7 @@ cd wordlist-generator
 ./Password-list
 
 ![](.Screenshot%201.png) 
+
 Added option 4 to Print only number series..
 ![](.Screenshot%202.png)
 
