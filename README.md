@@ -12,7 +12,7 @@ cd wordlist-generator
 
 ./Password-list
 
-###  add your star  ★★★★★★★★★★★ 
+###  add your star  ★★★★★
 
 ![](.Screenshot%201.png) 
 
