@@ -1,5 +1,8 @@
 # Password-list
 ### Generate a wordlist using Terminal
+
+ ![](https://komarev.com/ghpvc/?username=EngineerRancho/wordlist-generator&color=brightgreen)
+
 For Brute force attack as Dictionary attack and far better then Dictionary Attack and Crunch..
 
 This tool helps to create a password list which can crack 50% of accounts password on social media sites such as: Facebook, Instagram, Twitter etc.
