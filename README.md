@@ -5,7 +5,7 @@ For Brute force attack as Dictionary attack and far better then Dictionary Attac
 
 This tool helps to create a password list which can crack 50% of accounts password on social media sites such as: Facebook, Instagram, Twitter etc.
 
-### commnds to clone into Wordlist-generator
+### commands to clone into Wordlist-generator
 
 git clone https://github.com/EngineerRancho/wordlist-generator
 
